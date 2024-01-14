@@ -1,4 +1,4 @@
-# Foobar
+# About the program
 
 These are the answers to sky smart
 
