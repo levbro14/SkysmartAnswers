@@ -11,6 +11,6 @@ start.bat
 ```
 
 
-## Contributing
+## General description
 
 These are the answers to sky smart. I am not responsible for violating the rules of Sky smart.
