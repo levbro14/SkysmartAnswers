@@ -1,6 +1,6 @@
 # Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+These are the answers to sky smart
 
 ## Installation
 
