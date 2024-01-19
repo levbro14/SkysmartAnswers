@@ -1,16 +1,16 @@
-# About the program
+# О программе
 
-These are the answers to SkySmart
+Это ответы на вопросы SkySmart
 
-## Installation
-1) Download python.
-2) Open file.
+## Установка
+1) Скачать python.
+2) Открыть файл, с названием ⏬.
 
 ```bash
 start.bat
 ```
 
 
-## General description
+## Общее описание
 
-These are the answers to sky smart. I am not responsible for violating the rules of SkySmart.
+Это ответы на sky smart. Я не несу ответственности за нарушение правил SkySmart.
