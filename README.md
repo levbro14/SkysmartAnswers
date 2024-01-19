@@ -3,8 +3,8 @@
 These are the answers to sky smart
 
 ## Installation
-
-Open file.
+1) Download python.
+2) Open file.
 
 ```bash
 start.bat
