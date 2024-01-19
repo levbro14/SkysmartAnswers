@@ -1,6 +1,6 @@
 # About the program
 
-These are the answers to sky smart
+These are the answers to SkySmart
 
 ## Installation
 1) Download python.
@@ -13,4 +13,4 @@ start.bat
 
 ## General description
 
-These are the answers to sky smart. I am not responsible for violating the rules of Sky smart.
+These are the answers to sky smart. I am not responsible for violating the rules of SkySmart.
